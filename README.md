@@ -1,6 +1,6 @@
 # Process-Scheduling-Algorithms-OS
 
-The code for 6 process scheduling algorithms is given below
+The code for 6 process scheduling algorithms is given in the files above.
 1. FCFS
 2. SJF (non-preemptive)
 3. SJF (preemptive)
